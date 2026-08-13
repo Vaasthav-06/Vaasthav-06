@@ -22,7 +22,7 @@
 - 🌲 **Current Focus:** Building advanced Deep Learning models (CNNs) for Wildfire Prediction and tracking.
 - 💻 **Tech Stack:** I love building robust web applications and integrating Machine Learning models into user-friendly web interfaces using TypeScript and React.
 - 💡 **Problem Solving:** Actively practicing Data Structures & Algorithms and solving NeetCode problems in C++.
-- 📫 **How to reach me:** *(Add your email or LinkedIn link here)*
+- 📫 **How to reach me:** *https://www.linkedin.com/in/vaasthav-a-chowdary/*
 
 <br/>
 
